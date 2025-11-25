@@ -14,9 +14,11 @@
   "license": "ISC",
   "packageManager": "pnpm@10.18.3",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "prisma": "^7.0.0"
   },
   "devDependencies": {
+    "@prisma/client": "^7.0.0",
     "@types/express": "^5.0.5",
     "@types/node": "^24.10.1",
     "nodemon": "^3.1.11",
